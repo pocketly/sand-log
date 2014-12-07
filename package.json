@@ -1,0 +1,23 @@
+{
+  "name": "sand-log",
+  "version": "0.0.1",
+  "description": "Sand Logging",
+  "main": "lib/log.js",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/pocketly/sand-log"
+  },
+  "keywords": [
+    "logging"
+  ],
+  "author": "Kevin Smithson <ksmithson@pocketly.com>",
+  "homepage": "https://github.com/pocketly/sand-log",
+  "bug": {
+    "url": "https://github.com/pocketly/sand-log/issues"
+  },
+  "license": "ISC",
+  "dependencies": {
+    "lodash": "^2.4.1",
+    "winston": "^0.8.3"
+  }
+}
